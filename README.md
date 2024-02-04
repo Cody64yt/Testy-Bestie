@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Elyos Civs
 
-An example mod for Unciv, that adds one new Civilization.
+THIS IS UNFINISHED, DO NOT DOWNLOAD YET!!!
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+From mod example ----> For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
