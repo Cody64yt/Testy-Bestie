@@ -1,38 +1,133 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Firene",
+		"leaderName": "Alfred",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Culture",
+
+		"startIntroPart1": "No Intro Yet Sorry.",
+		"startIntroPart2": "... yep",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"declaringWar": "I must protect Firene from you, take this!",
+		"attacked": "I won't let my guard down, for Firene!",
+		"defeated": "",
+		"introduction": "Hey there, Prince Alfred at your service!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Good day to you, how's the empire going?",
+		"neutralLetsHearIt": ["Go on.","Let's hear it.","Begin."],
+		"neutralNo": ["No.","I refuse."],
+		"neutralYes": ["Very well.","Yes.","Smart."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["Speak!","Cough it up.","I'm waiting..."],
+		"hateNo": ["Not a choice.","No...","Excuse me?!"],
+		"hateYes": ["That is fine.","Hmph.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0, 139, 232],
+		"innerColor": [237, 178, 0],
+		"unique": "The Flower Who Cares For Everyone",
+		"cities": ["Firene Castle","","","",""]
+	},
+
+	{
+		"name": "Brodia",
+		"leaderName": "Diamant",
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "No Intro Yet Sorry.",
+		"startIntroPart2": "... yep",
+		
+		"declaringWar": "Brodia would do much better if you were gone.",
+		"attacked": "I won't let my guard down, for Firene!",
+		"defeated": "I may have bested me, but you haven't taken my pride...",
+		"introduction": "I greet you as the crown prince of Brodia. Call me Diamant.",
+		
+		"neutralHello": "Good day to you, how's the empire going?",
+		"neutralLetsHearIt": ["Go on.","Let's hear it.","Begin."],
+		"neutralNo": ["No.","I refuse."],
+		"neutralYes": ["Very well.","Yes.","Smart."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","Cough it up.","I'm waiting..."],
+		"hateNo": ["Not a choice.","No...","Excuse me?!"],
+		"hateYes": ["That is fine.","Hmph.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [158, 0, 0],
+		"innerColor": [41, 0, 0],
+		"unique": "The Rising Force Of Blackend Steel",
+		"cities": ["Brodia Castle","","","",""]
+	},
+
+	{
+		"name": "Elusia",
+		"leaderName": "Ivy",
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "No Intro Yet Sorry.",
+		"startIntroPart2": "... yep",
+		
+		"declaringWar": "I must protect Firene from you, take this!",
+		"attacked": "I won't let my guard down, for Firene!",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Good day to you, how's the empire going?",
+		"neutralLetsHearIt": ["Go on.","Let's hear it.","Begin."],
+		"neutralNo": ["No.","I refuse."],
+		"neutralYes": ["Very well.","Yes.","Smart."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","Cough it up.","I'm waiting..."],
+		"hateNo": ["Not a choice.","No...","Excuse me?!"],
+		"hateYes": ["That is fine.","Hmph.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [83, 13, 89],
+		"innerColor": [21, 128, 209],
+		"unique": "The Snow That Sweeps Across The Field",
+		"cities": ["Elusia Castle","","","",""]
+	},
+
+	{
+		"name": "Solm",
+		"leaderName": "Timara",
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Culture",
+
+		"startIntroPart1": "No Intro Yet Sorry.",
+		"startIntroPart2": "... yep",
+		
+		"declaringWar": "I must protect Firene from you, take this!",
+		"attacked": "I won't let my guard down, for Firene!",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "Good day to you, how's the empire going?",
+		"neutralLetsHearIt": ["Go on.","Let's hear it.","Begin."],
+		"neutralNo": ["No.","I refuse."],
+		"neutralYes": ["Very well.","Yes.","Smart."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","Cough it up.","I'm waiting..."],
+		"hateNo": ["Not a choice.","No...","Excuse me?!"],
+		"hateYes": ["That is fine.","Hmph.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0, 95, 237],
+		"innerColor": [222, 222, 222],
+		"unique": "Fighing In The Desert Sand",
+		"cities": ["Solm Castle","","","",""]
 	}
 ]
